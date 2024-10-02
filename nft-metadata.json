@@ -1,0 +1,15 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Cars",
+            "value": "Mitisibushi"
+        },
+        {
+            "trait_type": "Name",
+            "value": "EVO"
+        }
+    ],
+    "description": "Photos of My cars",
+    "image": "ipfs://QmZd8u5csgKSprFkpJFdmFCXmkH4UTenjAZ793whjHa8FL",
+    "name": "Car Photo Shoot"
+}
